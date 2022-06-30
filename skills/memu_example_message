@@ -1,0 +1,33 @@
+{
+	"blocks": [
+		{
+			"type": "section",
+			"fields": [
+				{
+					"type": "plain_text",
+					"text": "평점 4.3"
+				},
+				{
+					"type": "plain_text",
+					"text": "가격대 : 만원~2만원"
+				}
+			],
+			"text": {
+				"type": "mrkdwn",
+				"text": "여기는 어때요??  \n>>>*정돈* (까스 요리)       <https://map.naver.com/v5/search/서울특별시%20강남구%20역삼동%20811-4%20정돈|위치보기>"
+			},
+			"accessory": {
+				"type": "image",
+				"image_url": "https://api.slack.com/img/blocks/bkb_template_images/plants.png",
+				"alt_text": "plants"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": " "
+			}
+		} 
+	]
+}
